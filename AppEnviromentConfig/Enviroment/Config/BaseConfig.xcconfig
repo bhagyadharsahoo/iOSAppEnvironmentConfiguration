@@ -1,0 +1,11 @@
+//
+//  BaseConfig.xcconfig
+//  AppEnviromentConfig
+//
+//  Created by Bhagyadhar Sahoo on 22/01/24.
+//
+
+APP_NAME = AppEnviromentConfig
+APP_BUNDEL_IDENTIFIER = com.bhagyadhar.AppEnviromentConfig
+APP_TOKEN = 21jsnsfhjsnn
+

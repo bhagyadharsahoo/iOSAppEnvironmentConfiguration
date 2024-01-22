@@ -1,0 +1,13 @@
+//
+//  ProductionConfig.xcconfig
+//  AppEnviromentConfig
+//
+//  Created by Bhagyadhar Sahoo on 22/01/24.
+//
+
+#include "BaseConfig.xcconfig"
+
+APP_NAME = 🐞$(inherited)
+APP_BUNDEL_IDENTIFIER = $(inherited)
+APP_TOKEN = $(inherited)
+BASE_URL = https:/$()/bhagya.in
